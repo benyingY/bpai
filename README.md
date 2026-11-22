@@ -4,6 +4,10 @@ BPAI 面向共享算力的算法团队和 AI agent，覆盖开发空间、训练
 
 | 阅读入口 | 适合了解的问题 |
 | --- | --- |
-| [产品设计](产品设计.md) | 用户如何从开发进入训练和上线？人和 agent 如何接手同一项工作？ |
-| [系统架构](系统架构.md) | 控制面、计算集群、资产存储和计量如何协作？可靠性按什么标准验收？ |
-| [模块实现设计](模块实现设计.md) | Volcano 队列如何确定训练集群？每个 worker 如何选 GPU 套餐，共享输入输出及 OSS 数据如何访问？ |
+| [产品设计](product-design.md) | 用户如何从开发进入训练和上线？人和 agent 如何接手同一项工作？ |
+| [系统架构](system-architecture.md) | 控制面、计算集群、资产存储和计量如何协作？可靠性按什么标准验收？ |
+| [模块实现设计](module-design.md) | Volcano 队列如何确定训练集群？每个 worker 如何选 GPU 套餐，共享输入输出及 OSS 数据如何访问？ |
+
+## Language
+
+Documentation may be written in Chinese. Use English for everything else, including file and directory names, code and comments, configuration, API fields, UI and CLI text, logs, and error messages. Use English for branch names, commit messages, issues, and pull requests.
