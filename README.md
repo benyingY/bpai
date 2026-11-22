@@ -10,4 +10,4 @@ BPAI 面向共享算力的算法团队和 AI agent，覆盖开发空间、训练
 
 ## Language
 
-Documentation may be written in Chinese. Use English for everything else, including file and directory names, code and comments, configuration, API fields, UI and CLI text, logs, and error messages. Use English for branch names, commit messages, issues, and pull requests.
+Documentation and direct conversations with the user may use Chinese. Use English for everything else, including file and directory names, code and comments, configuration, API fields, UI and CLI text, logs, and error messages. Use English for branch names, commit messages, issues, and pull requests.
